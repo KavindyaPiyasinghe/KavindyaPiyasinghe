@@ -6,7 +6,7 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindyapiyasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="kavindyapiyasinghe" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kavindya_wakp" target="blank"><img src="https://img.shields.io/twitter/follow/kavindya_wakp?logo=twitter&style=for-the-badge" alt="kavindya_wakp" /></a> </p> -->
-- 👩‍💻 Undergraduate student in SLIIT
+- 👩‍💻 Undergraduate student in <a href="https://www.sliit.lk/" target="_blank">SLIIT </a>
   
 - 🌱 I’m currently learning **Full stack development**
 

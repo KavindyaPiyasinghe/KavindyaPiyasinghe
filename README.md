@@ -10,7 +10,7 @@
   
 - 🌱 I’m currently learning **Full stack development**
 
-- 💬 Ask me about **HTML , CSS , Javasript **
+- 💬 Ask me about **HTML , CSS , Javasript**
 
 - 📫 How to reach me **kavindyapiyasinghe@gmail.com**
 
